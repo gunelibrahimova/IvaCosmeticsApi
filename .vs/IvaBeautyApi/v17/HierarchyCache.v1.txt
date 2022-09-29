@@ -1,0 +1,330 @@
+﻿++Solution 'IvaBeautyApi' ‎(5 of 5 projects)
+i:{00000000-0000-0000-0000-000000000000}:IvaBeautyApi.sln
+++IvaBeautyApi
+i:{00000000-0000-0000-0000-000000000000}:IvaBeautyApi
+++Connected Services 
+i:{185d5d6f-186a-48b2-9b26-f41a96ac2fc9}:>798
+++Dependencies
+i:{185d5d6f-186a-48b2-9b26-f41a96ac2fc9}:>797
+i:{57ce30ac-3596-452e-b852-3542b841fdcc}:>628
+i:{1c174134-461a-42b9-b37f-8c32eb938995}:>630
+i:{cc61aa1f-8287-46dd-9be7-d2d49d621943}:>629
+i:{57252587-fef1-47a8-b4cf-26e3fd2be86f}:>631
+++Properties
+i:{185d5d6f-186a-48b2-9b26-f41a96ac2fc9}:c:\users\hp\desktop\tasks\ivabeautyapi\cosmetsyapi\properties\
+++wwwroot
+i:{185d5d6f-186a-48b2-9b26-f41a96ac2fc9}:c:\users\hp\desktop\tasks\ivabeautyapi\cosmetsyapi\wwwroot\
+++files
+i:{185d5d6f-186a-48b2-9b26-f41a96ac2fc9}:c:\users\hp\desktop\tasks\ivabeautyapi\cosmetsyapi\wwwroot\files\
+++63e30de7-fd5b-4da8-943c-81ce2539a3fbEkran Görüntüsü (59).png
+i:{185d5d6f-186a-48b2-9b26-f41a96ac2fc9}:c:\users\hp\desktop\tasks\ivabeautyapi\cosmetsyapi\wwwroot\files\63e30de7-fd5b-4da8-943c-81ce2539a3fbekran görüntüsü (59).png
+++Controllers
+i:{185d5d6f-186a-48b2-9b26-f41a96ac2fc9}:c:\users\hp\desktop\tasks\ivabeautyapi\cosmetsyapi\controllers\
+++appsettings.json
+i:{185d5d6f-186a-48b2-9b26-f41a96ac2fc9}:c:\users\hp\desktop\tasks\ivabeautyapi\cosmetsyapi\appsettings.json
+++Program.cs
+i:{185d5d6f-186a-48b2-9b26-f41a96ac2fc9}:c:\users\hp\desktop\tasks\ivabeautyapi\cosmetsyapi\program.cs
+++No service dependencies discovered
+i:{185d5d6f-186a-48b2-9b26-f41a96ac2fc9}:>799
+++Analyzers
+i:{185d5d6f-186a-48b2-9b26-f41a96ac2fc9}:analyzers
+i:{57ce30ac-3596-452e-b852-3542b841fdcc}:analyzers
+i:{1c174134-461a-42b9-b37f-8c32eb938995}:analyzers
+i:{cc61aa1f-8287-46dd-9be7-d2d49d621943}:analyzers
+i:{57252587-fef1-47a8-b4cf-26e3fd2be86f}:analyzers
+++Frameworks
+i:{185d5d6f-186a-48b2-9b26-f41a96ac2fc9}:frameworks
+i:{57ce30ac-3596-452e-b852-3542b841fdcc}:frameworks
+i:{1c174134-461a-42b9-b37f-8c32eb938995}:frameworks
+i:{cc61aa1f-8287-46dd-9be7-d2d49d621943}:frameworks
+i:{57252587-fef1-47a8-b4cf-26e3fd2be86f}:frameworks
+++Packages
+i:{185d5d6f-186a-48b2-9b26-f41a96ac2fc9}:packages
+i:{57ce30ac-3596-452e-b852-3542b841fdcc}:packages
+i:{cc61aa1f-8287-46dd-9be7-d2d49d621943}:packages
+i:{57252587-fef1-47a8-b4cf-26e3fd2be86f}:packages
+++Projects
+i:{185d5d6f-186a-48b2-9b26-f41a96ac2fc9}:projects
+i:{57ce30ac-3596-452e-b852-3542b841fdcc}:projects
+i:{1c174134-461a-42b9-b37f-8c32eb938995}:projects
+i:{cc61aa1f-8287-46dd-9be7-d2d49d621943}:projects
+++launchSettings.json
+i:{185d5d6f-186a-48b2-9b26-f41a96ac2fc9}:c:\users\hp\desktop\tasks\ivabeautyapi\cosmetsyapi\properties\launchsettings.json
+++AuthController.cs
+i:{185d5d6f-186a-48b2-9b26-f41a96ac2fc9}:c:\users\hp\desktop\tasks\ivabeautyapi\cosmetsyapi\controllers\authcontroller.cs
+++BlogController.cs
+i:{185d5d6f-186a-48b2-9b26-f41a96ac2fc9}:c:\users\hp\desktop\tasks\ivabeautyapi\cosmetsyapi\controllers\blogcontroller.cs
+++CategoryController.cs
+i:{185d5d6f-186a-48b2-9b26-f41a96ac2fc9}:c:\users\hp\desktop\tasks\ivabeautyapi\cosmetsyapi\controllers\categorycontroller.cs
+++CommentController.cs
+i:{185d5d6f-186a-48b2-9b26-f41a96ac2fc9}:c:\users\hp\desktop\tasks\ivabeautyapi\cosmetsyapi\controllers\commentcontroller.cs
+++OrderController.cs
+i:{185d5d6f-186a-48b2-9b26-f41a96ac2fc9}:c:\users\hp\desktop\tasks\ivabeautyapi\cosmetsyapi\controllers\ordercontroller.cs
+++OrderTrackingController.cs
+i:{185d5d6f-186a-48b2-9b26-f41a96ac2fc9}:c:\users\hp\desktop\tasks\ivabeautyapi\cosmetsyapi\controllers\ordertrackingcontroller.cs
+++ProductController.cs
+i:{185d5d6f-186a-48b2-9b26-f41a96ac2fc9}:c:\users\hp\desktop\tasks\ivabeautyapi\cosmetsyapi\controllers\productcontroller.cs
+++appsettings.Development.json
+i:{185d5d6f-186a-48b2-9b26-f41a96ac2fc9}:c:\users\hp\desktop\tasks\ivabeautyapi\cosmetsyapi\appsettings.development.json
+++Microsoft.AspNetCore.Analyzers
+i:{185d5d6f-186a-48b2-9b26-f41a96ac2fc9}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{185d5d6f-186a-48b2-9b26-f41a96ac2fc9}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+i:{57ce30ac-3596-452e-b852-3542b841fdcc}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+i:{1c174134-461a-42b9-b37f-8c32eb938995}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+i:{cc61aa1f-8287-46dd-9be7-d2d49d621943}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+i:{57252587-fef1-47a8-b4cf-26e3fd2be86f}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{185d5d6f-186a-48b2-9b26-f41a96ac2fc9}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+i:{57ce30ac-3596-452e-b852-3542b841fdcc}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+i:{1c174134-461a-42b9-b37f-8c32eb938995}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+i:{cc61aa1f-8287-46dd-9be7-d2d49d621943}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+i:{57252587-fef1-47a8-b4cf-26e3fd2be86f}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{185d5d6f-186a-48b2-9b26-f41a96ac2fc9}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{185d5d6f-186a-48b2-9b26-f41a96ac2fc9}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.Internal.SourceGenerator.Transport
+i:{185d5d6f-186a-48b2-9b26-f41a96ac2fc9}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.internal.sourcegenerator.transport.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{185d5d6f-186a-48b2-9b26-f41a96ac2fc9}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{57ce30ac-3596-452e-b852-3542b841fdcc}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{1c174134-461a-42b9-b37f-8c32eb938995}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{cc61aa1f-8287-46dd-9be7-d2d49d621943}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{57252587-fef1-47a8-b4cf-26e3fd2be86f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{185d5d6f-186a-48b2-9b26-f41a96ac2fc9}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{57ce30ac-3596-452e-b852-3542b841fdcc}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{1c174134-461a-42b9-b37f-8c32eb938995}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{cc61aa1f-8287-46dd-9be7-d2d49d621943}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{57252587-fef1-47a8-b4cf-26e3fd2be86f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{185d5d6f-186a-48b2-9b26-f41a96ac2fc9}:c:\users\hp\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.8\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{57ce30ac-3596-452e-b852-3542b841fdcc}:c:\users\hp\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.8\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{1c174134-461a-42b9-b37f-8c32eb938995}:c:\users\hp\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.8\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{cc61aa1f-8287-46dd-9be7-d2d49d621943}:c:\users\hp\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.8\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{57252587-fef1-47a8-b4cf-26e3fd2be86f}:c:\users\hp\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.8\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{185d5d6f-186a-48b2-9b26-f41a96ac2fc9}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{57ce30ac-3596-452e-b852-3542b841fdcc}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{1c174134-461a-42b9-b37f-8c32eb938995}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{cc61aa1f-8287-46dd-9be7-d2d49d621943}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{57252587-fef1-47a8-b4cf-26e3fd2be86f}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{185d5d6f-186a-48b2-9b26-f41a96ac2fc9}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++System.Text.Json.SourceGeneration
+i:{185d5d6f-186a-48b2-9b26-f41a96ac2fc9}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{57ce30ac-3596-452e-b852-3542b841fdcc}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{1c174134-461a-42b9-b37f-8c32eb938995}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{cc61aa1f-8287-46dd-9be7-d2d49d621943}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{57252587-fef1-47a8-b4cf-26e3fd2be86f}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.AspNetCore.App
+i:{185d5d6f-186a-48b2-9b26-f41a96ac2fc9}:c:\users\hp\desktop\tasks\ivabeautyapi\cosmetsyapi\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{185d5d6f-186a-48b2-9b26-f41a96ac2fc9}:c:\users\hp\desktop\tasks\ivabeautyapi\cosmetsyapi\microsoft.netcore.app
+i:{57ce30ac-3596-452e-b852-3542b841fdcc}:c:\users\hp\desktop\tasks\ivabeautyapi\entities\microsoft.netcore.app
+i:{1c174134-461a-42b9-b37f-8c32eb938995}:c:\users\hp\desktop\tasks\ivabeautyapi\business\microsoft.netcore.app
+i:{cc61aa1f-8287-46dd-9be7-d2d49d621943}:c:\users\hp\desktop\tasks\ivabeautyapi\dataaccess\microsoft.netcore.app
+i:{57252587-fef1-47a8-b4cf-26e3fd2be86f}:c:\users\hp\desktop\tasks\ivabeautyapi\core\microsoft.netcore.app
+++Microsoft.AspNetCore.Authentication.JwtBearer (6.0.8)
+i:{185d5d6f-186a-48b2-9b26-f41a96ac2fc9}:>813
+i:{57252587-fef1-47a8-b4cf-26e3fd2be86f}:>854
+++Microsoft.AspNetCore.Identity.UI (6.0.8)
+i:{185d5d6f-186a-48b2-9b26-f41a96ac2fc9}:>814
+++Microsoft.AspNetCore.Mvc.NewtonsoftJson (6.0.8)
+i:{185d5d6f-186a-48b2-9b26-f41a96ac2fc9}:>812
+++Microsoft.EntityFrameworkCore.Design (6.0.8)
+i:{185d5d6f-186a-48b2-9b26-f41a96ac2fc9}:>810
+i:{cc61aa1f-8287-46dd-9be7-d2d49d621943}:>833
+++Swashbuckle.AspNetCore (6.2.3)
+i:{185d5d6f-186a-48b2-9b26-f41a96ac2fc9}:>811
+++Business
+i:{185d5d6f-186a-48b2-9b26-f41a96ac2fc9}:c:\users\hp\desktop\tasks\ivabeautyapi\business\business.csproj
+i:{00000000-0000-0000-0000-000000000000}:Business
+++Entities
+i:{00000000-0000-0000-0000-000000000000}:Entities
+i:{1c174134-461a-42b9-b37f-8c32eb938995}:c:\users\hp\desktop\tasks\ivabeautyapi\entities\entities.csproj
+i:{cc61aa1f-8287-46dd-9be7-d2d49d621943}:c:\users\hp\desktop\tasks\ivabeautyapi\entities\entities.csproj
+++Abstract
+i:{57ce30ac-3596-452e-b852-3542b841fdcc}:c:\users\hp\desktop\tasks\ivabeautyapi\entities\abstract\
+i:{1c174134-461a-42b9-b37f-8c32eb938995}:c:\users\hp\desktop\tasks\ivabeautyapi\business\abstract\
+i:{cc61aa1f-8287-46dd-9be7-d2d49d621943}:c:\users\hp\desktop\tasks\ivabeautyapi\dataaccess\abstract\
+++Concrete
+i:{57ce30ac-3596-452e-b852-3542b841fdcc}:c:\users\hp\desktop\tasks\ivabeautyapi\entities\concrete\
+i:{1c174134-461a-42b9-b37f-8c32eb938995}:c:\users\hp\desktop\tasks\ivabeautyapi\business\concrete\
+i:{cc61aa1f-8287-46dd-9be7-d2d49d621943}:c:\users\hp\desktop\tasks\ivabeautyapi\dataaccess\concrete\
+++DTOs
+i:{57ce30ac-3596-452e-b852-3542b841fdcc}:c:\users\hp\desktop\tasks\ivabeautyapi\entities\dtos\
+++Blog.cs
+i:{57ce30ac-3596-452e-b852-3542b841fdcc}:c:\users\hp\desktop\tasks\ivabeautyapi\entities\concrete\blog.cs
+++Category.cs
+i:{57ce30ac-3596-452e-b852-3542b841fdcc}:c:\users\hp\desktop\tasks\ivabeautyapi\entities\concrete\category.cs
+++Comment.cs
+i:{57ce30ac-3596-452e-b852-3542b841fdcc}:c:\users\hp\desktop\tasks\ivabeautyapi\entities\concrete\comment.cs
+++Order.cs
+i:{57ce30ac-3596-452e-b852-3542b841fdcc}:c:\users\hp\desktop\tasks\ivabeautyapi\entities\concrete\order.cs
+++OrderTracking.cs
+i:{57ce30ac-3596-452e-b852-3542b841fdcc}:c:\users\hp\desktop\tasks\ivabeautyapi\entities\concrete\ordertracking.cs
+++Product.cs
+i:{57ce30ac-3596-452e-b852-3542b841fdcc}:c:\users\hp\desktop\tasks\ivabeautyapi\entities\concrete\product.cs
+++ProductPicture.cs
+i:{57ce30ac-3596-452e-b852-3542b841fdcc}:c:\users\hp\desktop\tasks\ivabeautyapi\entities\concrete\productpicture.cs
+++AddProductDTO.cs
+i:{57ce30ac-3596-452e-b852-3542b841fdcc}:c:\users\hp\desktop\tasks\ivabeautyapi\entities\dtos\addproductdto.cs
+++CommentDTO.cs
+i:{57ce30ac-3596-452e-b852-3542b841fdcc}:c:\users\hp\desktop\tasks\ivabeautyapi\entities\dtos\commentdto.cs
+++LoginDTO.cs
+i:{57ce30ac-3596-452e-b852-3542b841fdcc}:c:\users\hp\desktop\tasks\ivabeautyapi\entities\dtos\logindto.cs
+++OrderDTO.cs
+i:{57ce30ac-3596-452e-b852-3542b841fdcc}:c:\users\hp\desktop\tasks\ivabeautyapi\entities\dtos\orderdto.cs
+++ProductDTO.cs
+i:{57ce30ac-3596-452e-b852-3542b841fdcc}:c:\users\hp\desktop\tasks\ivabeautyapi\entities\dtos\productdto.cs
+++ProductPictureDTO.cs
+i:{57ce30ac-3596-452e-b852-3542b841fdcc}:c:\users\hp\desktop\tasks\ivabeautyapi\entities\dtos\productpicturedto.cs
+++RegisterDTO.cs
+i:{57ce30ac-3596-452e-b852-3542b841fdcc}:c:\users\hp\desktop\tasks\ivabeautyapi\entities\dtos\registerdto.cs
+++UserDTO.cs
+i:{57ce30ac-3596-452e-b852-3542b841fdcc}:c:\users\hp\desktop\tasks\ivabeautyapi\entities\dtos\userdto.cs
+++Microsoft.AspNetCore.Identity.EntityFrameworkCore (6.0.8)
+i:{57ce30ac-3596-452e-b852-3542b841fdcc}:>823
+i:{cc61aa1f-8287-46dd-9be7-d2d49d621943}:>834
+i:{57252587-fef1-47a8-b4cf-26e3fd2be86f}:>853
+++Core
+i:{57ce30ac-3596-452e-b852-3542b841fdcc}:c:\users\hp\desktop\tasks\ivabeautyapi\core\core.csproj
+i:{00000000-0000-0000-0000-000000000000}:Core
+++Constants
+i:{1c174134-461a-42b9-b37f-8c32eb938995}:c:\users\hp\desktop\tasks\ivabeautyapi\business\constants\
+++IAuthManager.cs
+i:{1c174134-461a-42b9-b37f-8c32eb938995}:c:\users\hp\desktop\tasks\ivabeautyapi\business\abstract\iauthmanager.cs
+++IBlogManager.cs
+i:{1c174134-461a-42b9-b37f-8c32eb938995}:c:\users\hp\desktop\tasks\ivabeautyapi\business\abstract\iblogmanager.cs
+++ICategoryManager.cs
+i:{1c174134-461a-42b9-b37f-8c32eb938995}:c:\users\hp\desktop\tasks\ivabeautyapi\business\abstract\icategorymanager.cs
+++ICommentManager.cs
+i:{1c174134-461a-42b9-b37f-8c32eb938995}:c:\users\hp\desktop\tasks\ivabeautyapi\business\abstract\icommentmanager.cs
+++IOrderManager.cs
+i:{1c174134-461a-42b9-b37f-8c32eb938995}:c:\users\hp\desktop\tasks\ivabeautyapi\business\abstract\iordermanager.cs
+++IOrderTrackingManager.cs
+i:{1c174134-461a-42b9-b37f-8c32eb938995}:c:\users\hp\desktop\tasks\ivabeautyapi\business\abstract\iordertrackingmanager.cs
+++IProductManager.cs
+i:{1c174134-461a-42b9-b37f-8c32eb938995}:c:\users\hp\desktop\tasks\ivabeautyapi\business\abstract\iproductmanager.cs
+++IProductPictureManager.cs
+i:{1c174134-461a-42b9-b37f-8c32eb938995}:c:\users\hp\desktop\tasks\ivabeautyapi\business\abstract\iproductpicturemanager.cs
+++AuthManager.cs
+i:{1c174134-461a-42b9-b37f-8c32eb938995}:c:\users\hp\desktop\tasks\ivabeautyapi\business\concrete\authmanager.cs
+++BlogManager.cs
+i:{1c174134-461a-42b9-b37f-8c32eb938995}:c:\users\hp\desktop\tasks\ivabeautyapi\business\concrete\blogmanager.cs
+++CategoryManager.cs
+i:{1c174134-461a-42b9-b37f-8c32eb938995}:c:\users\hp\desktop\tasks\ivabeautyapi\business\concrete\categorymanager.cs
+++CommentManager.cs
+i:{1c174134-461a-42b9-b37f-8c32eb938995}:c:\users\hp\desktop\tasks\ivabeautyapi\business\concrete\commentmanager.cs
+++OrderManager.cs
+i:{1c174134-461a-42b9-b37f-8c32eb938995}:c:\users\hp\desktop\tasks\ivabeautyapi\business\concrete\ordermanager.cs
+++OrderTrackingManager.cs
+i:{1c174134-461a-42b9-b37f-8c32eb938995}:c:\users\hp\desktop\tasks\ivabeautyapi\business\concrete\ordertrackingmanager.cs
+++ProductManager.cs
+i:{1c174134-461a-42b9-b37f-8c32eb938995}:c:\users\hp\desktop\tasks\ivabeautyapi\business\concrete\productmanager.cs
+++ProductPictureManager.cs
+i:{1c174134-461a-42b9-b37f-8c32eb938995}:c:\users\hp\desktop\tasks\ivabeautyapi\business\concrete\productpicturemanager.cs
+++Messages.cs
+i:{1c174134-461a-42b9-b37f-8c32eb938995}:c:\users\hp\desktop\tasks\ivabeautyapi\business\constants\messages.cs
+++DataAccess
+i:{1c174134-461a-42b9-b37f-8c32eb938995}:c:\users\hp\desktop\tasks\ivabeautyapi\dataaccess\dataaccess.csproj
+i:{00000000-0000-0000-0000-000000000000}:DataAccess
+i:{57252587-fef1-47a8-b4cf-26e3fd2be86f}:c:\users\hp\desktop\tasks\ivabeautyapi\core\dataaccess\
+++Migrations
+i:{cc61aa1f-8287-46dd-9be7-d2d49d621943}:c:\users\hp\desktop\tasks\ivabeautyapi\dataaccess\migrations\
+++IAuthDal.cs
+i:{cc61aa1f-8287-46dd-9be7-d2d49d621943}:c:\users\hp\desktop\tasks\ivabeautyapi\dataaccess\abstract\iauthdal.cs
+++IBlogDal.cs
+i:{cc61aa1f-8287-46dd-9be7-d2d49d621943}:c:\users\hp\desktop\tasks\ivabeautyapi\dataaccess\abstract\iblogdal.cs
+++ICategoryDal.cs
+i:{cc61aa1f-8287-46dd-9be7-d2d49d621943}:c:\users\hp\desktop\tasks\ivabeautyapi\dataaccess\abstract\icategorydal.cs
+++ICommentDal.cs
+i:{cc61aa1f-8287-46dd-9be7-d2d49d621943}:c:\users\hp\desktop\tasks\ivabeautyapi\dataaccess\abstract\icommentdal.cs
+++IOrderDal.cs
+i:{cc61aa1f-8287-46dd-9be7-d2d49d621943}:c:\users\hp\desktop\tasks\ivabeautyapi\dataaccess\abstract\iorderdal.cs
+++IOrderTrackingDal.cs
+i:{cc61aa1f-8287-46dd-9be7-d2d49d621943}:c:\users\hp\desktop\tasks\ivabeautyapi\dataaccess\abstract\iordertrackingdal.cs
+++IProductDal.cs
+i:{cc61aa1f-8287-46dd-9be7-d2d49d621943}:c:\users\hp\desktop\tasks\ivabeautyapi\dataaccess\abstract\iproductdal.cs
+++IProductPictureDal.cs
+i:{cc61aa1f-8287-46dd-9be7-d2d49d621943}:c:\users\hp\desktop\tasks\ivabeautyapi\dataaccess\abstract\iproductpicturedal.cs
+++EntityFramework
+i:{cc61aa1f-8287-46dd-9be7-d2d49d621943}:c:\users\hp\desktop\tasks\ivabeautyapi\dataaccess\concrete\entityframework\
+i:{57252587-fef1-47a8-b4cf-26e3fd2be86f}:c:\users\hp\desktop\tasks\ivabeautyapi\core\dataaccess\entityframework\
+++20220906200932_Initial.cs
+i:{cc61aa1f-8287-46dd-9be7-d2d49d621943}:c:\users\hp\desktop\tasks\ivabeautyapi\dataaccess\migrations\20220906200932_initial.cs
+++20220908100015_General.cs
+i:{cc61aa1f-8287-46dd-9be7-d2d49d621943}:c:\users\hp\desktop\tasks\ivabeautyapi\dataaccess\migrations\20220908100015_general.cs
+++20220912123444_OrderTracking.cs
+i:{cc61aa1f-8287-46dd-9be7-d2d49d621943}:c:\users\hp\desktop\tasks\ivabeautyapi\dataaccess\migrations\20220912123444_ordertracking.cs
+++20220912165006_Deeneme.cs
+i:{cc61aa1f-8287-46dd-9be7-d2d49d621943}:c:\users\hp\desktop\tasks\ivabeautyapi\dataaccess\migrations\20220912165006_deeneme.cs
+++20220912171509_CommentMan.cs
+i:{cc61aa1f-8287-46dd-9be7-d2d49d621943}:c:\users\hp\desktop\tasks\ivabeautyapi\dataaccess\migrations\20220912171509_commentman.cs
+++20220913092017_Categoryy.cs
+i:{cc61aa1f-8287-46dd-9be7-d2d49d621943}:c:\users\hp\desktop\tasks\ivabeautyapi\dataaccess\migrations\20220913092017_categoryy.cs
+++CosmetsyDbContextModelSnapshot.cs
+i:{cc61aa1f-8287-46dd-9be7-d2d49d621943}:c:\users\hp\desktop\tasks\ivabeautyapi\dataaccess\migrations\cosmetsydbcontextmodelsnapshot.cs
+++Microsoft.EntityFrameworkCore.SqlServer (6.0.8)
+i:{cc61aa1f-8287-46dd-9be7-d2d49d621943}:>832
+++Microsoft.EntityFrameworkCore.Tools (6.0.8)
+i:{cc61aa1f-8287-46dd-9be7-d2d49d621943}:>835
+++AuthDal.cs
+i:{cc61aa1f-8287-46dd-9be7-d2d49d621943}:c:\users\hp\desktop\tasks\ivabeautyapi\dataaccess\concrete\entityframework\authdal.cs
+++BlogDal.cs
+i:{cc61aa1f-8287-46dd-9be7-d2d49d621943}:c:\users\hp\desktop\tasks\ivabeautyapi\dataaccess\concrete\entityframework\blogdal.cs
+++CategoryDal.cs
+i:{cc61aa1f-8287-46dd-9be7-d2d49d621943}:c:\users\hp\desktop\tasks\ivabeautyapi\dataaccess\concrete\entityframework\categorydal.cs
+++CommentDal.cs
+i:{cc61aa1f-8287-46dd-9be7-d2d49d621943}:c:\users\hp\desktop\tasks\ivabeautyapi\dataaccess\concrete\entityframework\commentdal.cs
+++IvaBeautyDbContext.cs
+i:{cc61aa1f-8287-46dd-9be7-d2d49d621943}:c:\users\hp\desktop\tasks\ivabeautyapi\dataaccess\concrete\entityframework\ivabeautydbcontext.cs
+++OrderDal.cs
+i:{cc61aa1f-8287-46dd-9be7-d2d49d621943}:c:\users\hp\desktop\tasks\ivabeautyapi\dataaccess\concrete\entityframework\orderdal.cs
+++OrderTrackingDal.cs
+i:{cc61aa1f-8287-46dd-9be7-d2d49d621943}:c:\users\hp\desktop\tasks\ivabeautyapi\dataaccess\concrete\entityframework\ordertrackingdal.cs
+++ProductDal.cs
+i:{cc61aa1f-8287-46dd-9be7-d2d49d621943}:c:\users\hp\desktop\tasks\ivabeautyapi\dataaccess\concrete\entityframework\productdal.cs
+++ProductPictureDal.cs
+i:{cc61aa1f-8287-46dd-9be7-d2d49d621943}:c:\users\hp\desktop\tasks\ivabeautyapi\dataaccess\concrete\entityframework\productpicturedal.cs
+++20220906200932_Initial.Designer.cs
+i:{cc61aa1f-8287-46dd-9be7-d2d49d621943}:c:\users\hp\desktop\tasks\ivabeautyapi\dataaccess\migrations\20220906200932_initial.designer.cs
+++20220908100015_General.Designer.cs
+i:{cc61aa1f-8287-46dd-9be7-d2d49d621943}:c:\users\hp\desktop\tasks\ivabeautyapi\dataaccess\migrations\20220908100015_general.designer.cs
+++20220912123444_OrderTracking.Designer.cs
+i:{cc61aa1f-8287-46dd-9be7-d2d49d621943}:c:\users\hp\desktop\tasks\ivabeautyapi\dataaccess\migrations\20220912123444_ordertracking.designer.cs
+++20220912165006_Deeneme.Designer.cs
+i:{cc61aa1f-8287-46dd-9be7-d2d49d621943}:c:\users\hp\desktop\tasks\ivabeautyapi\dataaccess\migrations\20220912165006_deeneme.designer.cs
+++20220912171509_CommentMan.Designer.cs
+i:{cc61aa1f-8287-46dd-9be7-d2d49d621943}:c:\users\hp\desktop\tasks\ivabeautyapi\dataaccess\migrations\20220912171509_commentman.designer.cs
+++20220913092017_Categoryy.Designer.cs
+i:{cc61aa1f-8287-46dd-9be7-d2d49d621943}:c:\users\hp\desktop\tasks\ivabeautyapi\dataaccess\migrations\20220913092017_categoryy.designer.cs
+++Entity
+i:{57252587-fef1-47a8-b4cf-26e3fd2be86f}:c:\users\hp\desktop\tasks\ivabeautyapi\core\entity\
+++Security
+i:{57252587-fef1-47a8-b4cf-26e3fd2be86f}:c:\users\hp\desktop\tasks\ivabeautyapi\core\security\
+++IEntityRepository.cs
+i:{57252587-fef1-47a8-b4cf-26e3fd2be86f}:c:\users\hp\desktop\tasks\ivabeautyapi\core\dataaccess\ientityrepository.cs
+++Models
+i:{57252587-fef1-47a8-b4cf-26e3fd2be86f}:c:\users\hp\desktop\tasks\ivabeautyapi\core\entity\models\
+i:{57252587-fef1-47a8-b4cf-26e3fd2be86f}:c:\users\hp\desktop\tasks\ivabeautyapi\core\security\models\
+++IEntity.cs
+i:{57252587-fef1-47a8-b4cf-26e3fd2be86f}:c:\users\hp\desktop\tasks\ivabeautyapi\core\entity\ientity.cs
+++Hasing
+i:{57252587-fef1-47a8-b4cf-26e3fd2be86f}:c:\users\hp\desktop\tasks\ivabeautyapi\core\security\hasing\
+++TokenHandler
+i:{57252587-fef1-47a8-b4cf-26e3fd2be86f}:c:\users\hp\desktop\tasks\ivabeautyapi\core\security\tokenhandler\
+++Microsoft.EntityFrameworkCore (6.0.8)
+i:{57252587-fef1-47a8-b4cf-26e3fd2be86f}:>852
+++EfEntityRepositoryBase.cs
+i:{57252587-fef1-47a8-b4cf-26e3fd2be86f}:c:\users\hp\desktop\tasks\ivabeautyapi\core\dataaccess\entityframework\efentityrepositorybase.cs
+++User.cs
+i:{57252587-fef1-47a8-b4cf-26e3fd2be86f}:c:\users\hp\desktop\tasks\ivabeautyapi\core\entity\models\user.cs
+++HasingHandler.cs
+i:{57252587-fef1-47a8-b4cf-26e3fd2be86f}:c:\users\hp\desktop\tasks\ivabeautyapi\core\security\hasing\hasinghandler.cs
+++JWTConfig.cs
+i:{57252587-fef1-47a8-b4cf-26e3fd2be86f}:c:\users\hp\desktop\tasks\ivabeautyapi\core\security\models\jwtconfig.cs
+++TokenGenerator.cs
+i:{57252587-fef1-47a8-b4cf-26e3fd2be86f}:c:\users\hp\desktop\tasks\ivabeautyapi\core\security\tokenhandler\tokengenerator.cs

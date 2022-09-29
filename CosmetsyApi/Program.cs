@@ -67,6 +67,11 @@ builder.Services.AddScoped<IProductDal, ProductDal>();
 builder.Services.AddScoped<IProductManager, ProductManager>();
 builder.Services.AddScoped<IProductPictureDal, ProductPictureDal>();
 builder.Services.AddScoped<IProductPictureManager, ProductPictureManager>();
+builder.Services.AddScoped<IFaqDal, FaqDal>();
+builder.Services.AddScoped<IFaqManager, FaqManager>();
+builder.Services.AddScoped<IProductSizeDal , ProductSizeDal>();
+builder.Services.AddScoped<IProductSizeManager , ProductSizeManager>();
+
 
 builder.Services.AddScoped<HasingHandler>();
 builder.Services.AddScoped<TokenGenerator>();

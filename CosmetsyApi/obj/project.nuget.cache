@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "41IhAhvEmD6zcuyIfa/9Zn18mspXat4UeTy4zs1ZmI1Q6THS954TVcOPloGsM9FM8dpzzspt3iJGZRwumpFekg==",
+  "dgSpecHash": "YC8S0FnLD9Bzp4uvbo3y03mJtRHDLEqaXICvG58ODFkLw+aR/+L5mlnMLEC0un4bfm9qbaxXoTSCNSU9izrLeg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\HP\\Desktop\\IvaBeautyApi\\CosmetsyApi\\IvaBeautyApi.csproj",
+  "projectFilePath": "C:\\Users\\HP\\Desktop\\Tasks\\IvaBeautyApi\\CosmetsyApi\\IvaBeautyApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\6.0.8\\microsoft.aspnetcore.authentication.jwtbearer.6.0.8.nupkg.sha512",

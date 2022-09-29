@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qxsowkBdutFCHprc8GJhLT4O7x1eoNmHU9xTc+SSU7Dcal3NcW8SAazVibsnXz7eTWP5jRcGirdaaNCzw2Q8ew==",
+  "dgSpecHash": "BqDPeM2WO/LUp/MPo0CTLpDkRjTbHasdhKP+MY3mev0CcDxlUZHgUFG/pX2bzZMTTNj0ozBcBnFdVOsanNE0iw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\HP\\Desktop\\IvaBeautyApi\\Entities\\Entities.csproj",
+  "projectFilePath": "C:\\Users\\HP\\Desktop\\Tasks\\IvaBeautyApi\\Entities\\Entities.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\6.0.8\\microsoft.aspnetcore.authentication.jwtbearer.6.0.8.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.8\\microsoft.aspnetcore.cryptography.internal.6.0.8.nupkg.sha512",

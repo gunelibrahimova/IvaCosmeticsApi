@@ -14,5 +14,6 @@ namespace Entities.Concrete
         public string Picture { get; set; }
         public string Tags { get; set; }
         public string Style { get; set; }
+        public string Date { get; set; }
     }
 }

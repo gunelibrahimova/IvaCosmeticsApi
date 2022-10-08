@@ -40,6 +40,7 @@ namespace Business.Concrete
             current.Picture = blog.Picture;
             current.Tags = blog.Tags;
             current.Style = blog.Style;
+            current.Date = blog.Date;
             _blogDal.Delete(current);
         }
 
@@ -50,6 +51,7 @@ namespace Business.Concrete
             current.Picture = blog.Picture;
             current.Tags = blog.Tags;
             current.Style = blog.Style;
+            current.Date = blog.Date;
             _blogDal.Update(current);
         }
     }

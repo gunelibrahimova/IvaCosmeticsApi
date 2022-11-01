@@ -71,6 +71,8 @@ builder.Services.AddScoped<IFaqDal, FaqDal>();
 builder.Services.AddScoped<IFaqManager, FaqManager>();
 builder.Services.AddScoped<IProductSizeDal , ProductSizeDal>();
 builder.Services.AddScoped<IProductSizeManager , ProductSizeManager>();
+builder.Services.AddScoped<IContactDal, ContactDal>();
+builder.Services.AddScoped<IContactManager, ContactManager>();
 
 
 builder.Services.AddScoped<HasingHandler>();

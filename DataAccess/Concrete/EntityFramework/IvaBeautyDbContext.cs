@@ -24,5 +24,6 @@ namespace DataAccess.Concrete.EntityFramework
         public DbSet<ProductPicture> ProductPicture { get; set; }
         public DbSet<Faq> Faq { get; set; }
         public DbSet<ProductSize> ProductSize { get; set; }
+        public DbSet<Contact> contacts { get; set; }
     }
 }

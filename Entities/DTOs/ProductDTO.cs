@@ -17,6 +17,7 @@ namespace Entities.DTOs
         public int ReviewCount { get; set; }
         public string Summary { get; set; }
         public string SKU { get; set; }
+        public string SecondPhoto { get; set; }
         public string CategoryName { get; set; }
         public string CoverPhoto { get; set; }
         public bool IsStock { get; set; }

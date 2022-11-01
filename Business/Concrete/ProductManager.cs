@@ -34,7 +34,8 @@ namespace Business.Concrete
                 SalePrice = productDTO.SalePrice,
                 SKU = productDTO.SKU,
                 Summary = productDTO.Summary,
-                CoverPhoto = productDTO.CoverPhoto
+                CoverPhoto = productDTO.CoverPhoto,
+                SecondPhoto = productDTO.SecondPhoto,
             };
 
             _productDal.Add(product);
@@ -69,6 +70,7 @@ namespace Business.Concrete
             current.SalePrice = product.SalePrice;
             current.SKU = product.SKU;
             current.Summary = product.Summary;
+            current.SecondPhoto = product.SecondPhoto;
             _productDal.Delete(current);
         }
 
@@ -85,6 +87,7 @@ namespace Business.Concrete
             current.SalePrice = product.SalePrice;
             current.SKU = product.SKU;
             current.Summary = product.Summary;
+            current.SecondPhoto= product.SecondPhoto;
             _productDal.Update(current);
         }
     }

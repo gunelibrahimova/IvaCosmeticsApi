@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "f+Ks+Lbx3kYr2mZ9xDPNwvS4cgcsQa5WiaxyStPCAOc=",
+  "Hash": "IDrEnMUJRmiG5i4fQz0LKkuEwRfYRCN+IKmD5zVmhjY=",
   "Source": "IvaBeautyApi",
   "BasePath": "_content/IvaBeautyApi",
   "Mode": "Default",
@@ -1037,6 +1037,23 @@
       "OriginalItemSpec": "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.8\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
+      "Identity": "C:\\Users\\HP\\Desktop\\Tasks\\IvaBeautyApi\\CosmetsyApi\\wwwroot\\files\\023d9a55-08de-4261-84c1-3a6eab503f2bProduct-Images-jpeg-02.jpg",
+      "SourceId": "IvaBeautyApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\Tasks\\IvaBeautyApi\\CosmetsyApi\\wwwroot\\",
+      "BasePath": "_content/IvaBeautyApi",
+      "RelativePath": "files/023d9a55-08de-4261-84c1-3a6eab503f2bProduct-Images-jpeg-02.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\files\\023d9a55-08de-4261-84c1-3a6eab503f2bProduct-Images-jpeg-02.jpg"
+    },
+    {
       "Identity": "C:\\Users\\HP\\Desktop\\Tasks\\IvaBeautyApi\\CosmetsyApi\\wwwroot\\files\\07fde6a1-327a-460b-891e-c4979f6555dbProduct-Images-jpeg-03.jpg",
       "SourceId": "IvaBeautyApi",
       "SourceType": "Discovered",
@@ -1052,6 +1069,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\files\\07fde6a1-327a-460b-891e-c4979f6555dbProduct-Images-jpeg-03.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\HP\\Desktop\\Tasks\\IvaBeautyApi\\CosmetsyApi\\wwwroot\\files\\097001bc-c398-4682-a683-9e7aedd678f7Ekran Görüntüsü (61).png",
+      "SourceId": "IvaBeautyApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\Tasks\\IvaBeautyApi\\CosmetsyApi\\wwwroot\\",
+      "BasePath": "_content/IvaBeautyApi",
+      "RelativePath": "files/097001bc-c398-4682-a683-9e7aedd678f7Ekran Görüntüsü (61).png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\files\\097001bc-c398-4682-a683-9e7aedd678f7Ekran Görüntüsü (61).png"
     },
     {
       "Identity": "C:\\Users\\HP\\Desktop\\Tasks\\IvaBeautyApi\\CosmetsyApi\\wwwroot\\files\\16551145-7d67-4578-8204-9a3213f228b7Product-Images-jpeg-04.jpg",
@@ -1411,6 +1445,23 @@
       "OriginalItemSpec": "wwwroot\\files\\4fdfe53f-c8c0-4bce-bf28-196f8f14dea7Product-Images-jpeg-10 (1).jpg"
     },
     {
+      "Identity": "C:\\Users\\HP\\Desktop\\Tasks\\IvaBeautyApi\\CosmetsyApi\\wwwroot\\files\\554b6f27-6928-46f3-bddb-00197730e58aEkran Görüntüsü (61).png",
+      "SourceId": "IvaBeautyApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\Tasks\\IvaBeautyApi\\CosmetsyApi\\wwwroot\\",
+      "BasePath": "_content/IvaBeautyApi",
+      "RelativePath": "files/554b6f27-6928-46f3-bddb-00197730e58aEkran Görüntüsü (61).png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\files\\554b6f27-6928-46f3-bddb-00197730e58aEkran Görüntüsü (61).png"
+    },
+    {
       "Identity": "C:\\Users\\HP\\Desktop\\Tasks\\IvaBeautyApi\\CosmetsyApi\\wwwroot\\files\\58a3add6-641a-4aac-8dcf-47cf4ded88bbProduct-Images-jpeg-04.jpg",
       "SourceId": "IvaBeautyApi",
       "SourceType": "Discovered",
@@ -1479,6 +1530,23 @@
       "OriginalItemSpec": "wwwroot\\files\\5e149237-7e32-4ebf-a32d-51a040aaec6aProduct-Images-jpeg-03.jpg"
     },
     {
+      "Identity": "C:\\Users\\HP\\Desktop\\Tasks\\IvaBeautyApi\\CosmetsyApi\\wwwroot\\files\\64e72de9-5d95-4a70-961f-4007a72839d7Ekran Görüntüsü (61).png",
+      "SourceId": "IvaBeautyApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\Tasks\\IvaBeautyApi\\CosmetsyApi\\wwwroot\\",
+      "BasePath": "_content/IvaBeautyApi",
+      "RelativePath": "files/64e72de9-5d95-4a70-961f-4007a72839d7Ekran Görüntüsü (61).png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\files\\64e72de9-5d95-4a70-961f-4007a72839d7Ekran Görüntüsü (61).png"
+    },
+    {
       "Identity": "C:\\Users\\HP\\Desktop\\Tasks\\IvaBeautyApi\\CosmetsyApi\\wwwroot\\files\\690cb713-d60a-4d1b-8a27-3b8cef7b8201Product-Images-jpeg-02.jpg",
       "SourceId": "IvaBeautyApi",
       "SourceType": "Discovered",
@@ -1530,6 +1598,40 @@
       "OriginalItemSpec": "wwwroot\\files\\6c7cfab2-8d4b-4009-bb8e-89a3ab38c9ecshop-69.jpg"
     },
     {
+      "Identity": "C:\\Users\\HP\\Desktop\\Tasks\\IvaBeautyApi\\CosmetsyApi\\wwwroot\\files\\70970129-7719-4e08-bb0f-377c35f98c83Ekran Görüntüsü (62).png",
+      "SourceId": "IvaBeautyApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\Tasks\\IvaBeautyApi\\CosmetsyApi\\wwwroot\\",
+      "BasePath": "_content/IvaBeautyApi",
+      "RelativePath": "files/70970129-7719-4e08-bb0f-377c35f98c83Ekran Görüntüsü (62).png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\files\\70970129-7719-4e08-bb0f-377c35f98c83Ekran Görüntüsü (62).png"
+    },
+    {
+      "Identity": "C:\\Users\\HP\\Desktop\\Tasks\\IvaBeautyApi\\CosmetsyApi\\wwwroot\\files\\718c380b-aacd-4557-b955-5f848536b79eProduct-Images-01.png",
+      "SourceId": "IvaBeautyApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\Tasks\\IvaBeautyApi\\CosmetsyApi\\wwwroot\\",
+      "BasePath": "_content/IvaBeautyApi",
+      "RelativePath": "files/718c380b-aacd-4557-b955-5f848536b79eProduct-Images-01.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\files\\718c380b-aacd-4557-b955-5f848536b79eProduct-Images-01.png"
+    },
+    {
       "Identity": "C:\\Users\\HP\\Desktop\\Tasks\\IvaBeautyApi\\CosmetsyApi\\wwwroot\\files\\76b000ed-da61-4f6c-9c57-df38c2bfabddProduct-Images-jpeg-10 (1).jpg",
       "SourceId": "IvaBeautyApi",
       "SourceType": "Discovered",
@@ -1562,6 +1664,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\files\\78ec87fa-783f-4617-91c2-937b23183935shop-75.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\HP\\Desktop\\Tasks\\IvaBeautyApi\\CosmetsyApi\\wwwroot\\files\\7a863939-30d6-4f68-9cab-d77c222d66f3Ekran Görüntüsü (61).png",
+      "SourceId": "IvaBeautyApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\Tasks\\IvaBeautyApi\\CosmetsyApi\\wwwroot\\",
+      "BasePath": "_content/IvaBeautyApi",
+      "RelativePath": "files/7a863939-30d6-4f68-9cab-d77c222d66f3Ekran Görüntüsü (61).png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\files\\7a863939-30d6-4f68-9cab-d77c222d66f3Ekran Görüntüsü (61).png"
     },
     {
       "Identity": "C:\\Users\\HP\\Desktop\\Tasks\\IvaBeautyApi\\CosmetsyApi\\wwwroot\\files\\7c07d045-4d56-48d2-864f-bacbe121d8b0Product-Images-jpeg-10 (1).jpg",
@@ -1649,6 +1768,23 @@
       "OriginalItemSpec": "wwwroot\\files\\8108377d-3f67-4e25-895b-89c148e63c8eProduct-Images-jpeg-04.jpg"
     },
     {
+      "Identity": "C:\\Users\\HP\\Desktop\\Tasks\\IvaBeautyApi\\CosmetsyApi\\wwwroot\\files\\8138a69d-2f4a-4ca0-b0f5-56ad1cd54eafEkran Görüntüsü (61).png",
+      "SourceId": "IvaBeautyApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\Tasks\\IvaBeautyApi\\CosmetsyApi\\wwwroot\\",
+      "BasePath": "_content/IvaBeautyApi",
+      "RelativePath": "files/8138a69d-2f4a-4ca0-b0f5-56ad1cd54eafEkran Görüntüsü (61).png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\files\\8138a69d-2f4a-4ca0-b0f5-56ad1cd54eafEkran Görüntüsü (61).png"
+    },
+    {
       "Identity": "C:\\Users\\HP\\Desktop\\Tasks\\IvaBeautyApi\\CosmetsyApi\\wwwroot\\files\\81aa0e9f-4bd6-467a-8176-a369436c6d24shop-69.jpg",
       "SourceId": "IvaBeautyApi",
       "SourceType": "Discovered",
@@ -1681,6 +1817,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\files\\840adcf9-37a3-4aed-af0f-a1de571585baProduct-Images-jpeg-08.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\HP\\Desktop\\Tasks\\IvaBeautyApi\\CosmetsyApi\\wwwroot\\files\\86a22252-c01e-4b68-bf06-b743c4382c3fProduct-Images-01.png",
+      "SourceId": "IvaBeautyApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\Tasks\\IvaBeautyApi\\CosmetsyApi\\wwwroot\\",
+      "BasePath": "_content/IvaBeautyApi",
+      "RelativePath": "files/86a22252-c01e-4b68-bf06-b743c4382c3fProduct-Images-01.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\files\\86a22252-c01e-4b68-bf06-b743c4382c3fProduct-Images-01.png"
     },
     {
       "Identity": "C:\\Users\\HP\\Desktop\\Tasks\\IvaBeautyApi\\CosmetsyApi\\wwwroot\\files\\8dd5ff23-c988-4be7-bda4-39df550208d1Product-Images-jpeg-10 (1).jpg",
@@ -1732,6 +1885,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\files\\964e1fd2-0a12-4fd9-b45d-67da6887fcc5Product-Images-jpeg-10 (1).jpg"
+    },
+    {
+      "Identity": "C:\\Users\\HP\\Desktop\\Tasks\\IvaBeautyApi\\CosmetsyApi\\wwwroot\\files\\997eebe5-64b8-47d2-975d-4f174c7fcd0eProduct-Images-jpeg-03.jpg",
+      "SourceId": "IvaBeautyApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\Tasks\\IvaBeautyApi\\CosmetsyApi\\wwwroot\\",
+      "BasePath": "_content/IvaBeautyApi",
+      "RelativePath": "files/997eebe5-64b8-47d2-975d-4f174c7fcd0eProduct-Images-jpeg-03.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\files\\997eebe5-64b8-47d2-975d-4f174c7fcd0eProduct-Images-jpeg-03.jpg"
     },
     {
       "Identity": "C:\\Users\\HP\\Desktop\\Tasks\\IvaBeautyApi\\CosmetsyApi\\wwwroot\\files\\9c33a6be-d568-4caa-9d09-d7d2341aeabcshop-78.jpg",
@@ -1802,6 +1972,23 @@
       "OriginalItemSpec": "wwwroot\\files\\afb55fa0-af6e-4ba1-87c5-c299e84e4601shop-69.jpg"
     },
     {
+      "Identity": "C:\\Users\\HP\\Desktop\\Tasks\\IvaBeautyApi\\CosmetsyApi\\wwwroot\\files\\b00c54bb-b917-459c-9c67-ff3c494c1b94Product-Images-jpeg-03.jpg",
+      "SourceId": "IvaBeautyApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\Tasks\\IvaBeautyApi\\CosmetsyApi\\wwwroot\\",
+      "BasePath": "_content/IvaBeautyApi",
+      "RelativePath": "files/b00c54bb-b917-459c-9c67-ff3c494c1b94Product-Images-jpeg-03.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\files\\b00c54bb-b917-459c-9c67-ff3c494c1b94Product-Images-jpeg-03.jpg"
+    },
+    {
       "Identity": "C:\\Users\\HP\\Desktop\\Tasks\\IvaBeautyApi\\CosmetsyApi\\wwwroot\\files\\b9ce4012-5a2d-40d4-9bfa-93c45f95e9a8Product-Images-jpeg-03.jpg",
       "SourceId": "IvaBeautyApi",
       "SourceType": "Discovered",
@@ -1817,6 +2004,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\files\\b9ce4012-5a2d-40d4-9bfa-93c45f95e9a8Product-Images-jpeg-03.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\HP\\Desktop\\Tasks\\IvaBeautyApi\\CosmetsyApi\\wwwroot\\files\\c24eb824-b887-41eb-bf2a-9b2593e0187cProduct-Images-01.png",
+      "SourceId": "IvaBeautyApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\Tasks\\IvaBeautyApi\\CosmetsyApi\\wwwroot\\",
+      "BasePath": "_content/IvaBeautyApi",
+      "RelativePath": "files/c24eb824-b887-41eb-bf2a-9b2593e0187cProduct-Images-01.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\files\\c24eb824-b887-41eb-bf2a-9b2593e0187cProduct-Images-01.png"
     },
     {
       "Identity": "C:\\Users\\HP\\Desktop\\Tasks\\IvaBeautyApi\\CosmetsyApi\\wwwroot\\files\\c3b68ff5-0f08-4295-9cd3-cfd9fd9fa4aeProduct-Images-jpeg-10 (1).jpg",
@@ -1851,6 +2055,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\files\\cbef7928-dcd7-4811-bae3-45cb6337bba5WIN_20210518_14_20_49_Pro.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\HP\\Desktop\\Tasks\\IvaBeautyApi\\CosmetsyApi\\wwwroot\\files\\ce06bb9a-136b-4b4d-975b-74ef6df6a8c6Product-Images-jpeg-02.jpg",
+      "SourceId": "IvaBeautyApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\Tasks\\IvaBeautyApi\\CosmetsyApi\\wwwroot\\",
+      "BasePath": "_content/IvaBeautyApi",
+      "RelativePath": "files/ce06bb9a-136b-4b4d-975b-74ef6df6a8c6Product-Images-jpeg-02.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\files\\ce06bb9a-136b-4b4d-975b-74ef6df6a8c6Product-Images-jpeg-02.jpg"
     },
     {
       "Identity": "C:\\Users\\HP\\Desktop\\Tasks\\IvaBeautyApi\\CosmetsyApi\\wwwroot\\files\\cfd5e7a2-142f-4002-9198-a58311361f40Product-Images-jpeg-10 (1).jpg",
@@ -1938,6 +2159,23 @@
       "OriginalItemSpec": "wwwroot\\files\\dc771d01-c492-4c76-9345-5b2bff405075Product-Images-jpeg-05.jpg"
     },
     {
+      "Identity": "C:\\Users\\HP\\Desktop\\Tasks\\IvaBeautyApi\\CosmetsyApi\\wwwroot\\files\\e49c0263-8bd9-47de-a744-827022c9ddfaProduct-Images-jpeg-02.jpg",
+      "SourceId": "IvaBeautyApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\Tasks\\IvaBeautyApi\\CosmetsyApi\\wwwroot\\",
+      "BasePath": "_content/IvaBeautyApi",
+      "RelativePath": "files/e49c0263-8bd9-47de-a744-827022c9ddfaProduct-Images-jpeg-02.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\files\\e49c0263-8bd9-47de-a744-827022c9ddfaProduct-Images-jpeg-02.jpg"
+    },
+    {
       "Identity": "C:\\Users\\HP\\Desktop\\Tasks\\IvaBeautyApi\\CosmetsyApi\\wwwroot\\files\\e7ffa562-9bf5-4a72-a17c-db0cd28ff30cshop-78.jpg",
       "SourceId": "IvaBeautyApi",
       "SourceType": "Discovered",
@@ -1987,6 +2225,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\files\\eaee5d47-27d8-4d6d-b7ab-c1a31965fce6Product-Images-jpeg-04.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\HP\\Desktop\\Tasks\\IvaBeautyApi\\CosmetsyApi\\wwwroot\\files\\ebbdd86a-94bc-4a20-bd7b-94d0411854e0Ekran Görüntüsü (61).png",
+      "SourceId": "IvaBeautyApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\Tasks\\IvaBeautyApi\\CosmetsyApi\\wwwroot\\",
+      "BasePath": "_content/IvaBeautyApi",
+      "RelativePath": "files/ebbdd86a-94bc-4a20-bd7b-94d0411854e0Ekran Görüntüsü (61).png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\files\\ebbdd86a-94bc-4a20-bd7b-94d0411854e0Ekran Görüntüsü (61).png"
     },
     {
       "Identity": "C:\\Users\\HP\\Desktop\\Tasks\\IvaBeautyApi\\CosmetsyApi\\wwwroot\\files\\ef6b9e2a-7e22-4292-b357-f99ed29deadashop-75.jpg",

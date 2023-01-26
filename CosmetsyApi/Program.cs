@@ -73,6 +73,10 @@ builder.Services.AddScoped<IProductSizeDal , ProductSizeDal>();
 builder.Services.AddScoped<IProductSizeManager , ProductSizeManager>();
 builder.Services.AddScoped<IContactDal, ContactDal>();
 builder.Services.AddScoped<IContactManager, ContactManager>();
+builder.Services.AddScoped<ISliderDal, SliderDal>();
+builder.Services.AddScoped<ISliderManager, SliderManager>();
+builder.Services.AddScoped<INatureDal, NatureDal>();
+builder.Services.AddScoped<INatureManager, NatureManager>();
 
 
 builder.Services.AddScoped<HasingHandler>();
